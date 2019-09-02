@@ -8,6 +8,7 @@ use strict;
 use warnings;
 
 our $scenario = {
+    summary => 'Benchmark module startup',
     module_startup => 1,
     participants => [
         {
