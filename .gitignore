@@ -2,3 +2,4 @@ Bencher-Scenarios-ListingModules-*
 .build
 *~
 nytprof*
+.DS_Store
